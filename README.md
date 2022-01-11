@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TheOrcinusOrca
 
-Undergraduate research assistant in the Marine Turtle Research, Ecology and Conservation Group
-Current Research focus: Fibropapilloma incidence in West Floridian greens
-Statistical modeling conducted in R-Script 
+Undergraduate research assistant in the Marine Turtle Research, Ecology and Conservation Group at Florida State University 
 
 ig: aidangperez
 
