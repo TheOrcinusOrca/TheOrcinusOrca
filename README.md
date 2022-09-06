@@ -4,4 +4,4 @@ Undergraduate research assistant in the Marine Turtle Research, Ecology and Cons
 
 ig: aidangperez
 
-inquiry: agp21g@my.fsu.edu
+inquiry: agp21g@fsu.edu
